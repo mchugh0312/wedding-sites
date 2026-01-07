@@ -5,4 +5,11 @@
   "scripts": {
     "start": "npx http-server public -p 3000"
   }
-}
+=======
+{
+  "name": "wedding-sites",
+  "version": "1.0.0",
+  "description": "Wedding website builder",
+  "scripts": {
+    "start": "npx http-server public -p 3000"
+  }
